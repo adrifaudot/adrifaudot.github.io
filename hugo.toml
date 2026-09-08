@@ -1,5 +1,5 @@
 baseURL = "https://adrifaudot.github.io/"
-languageCode = "fr-fr"
+locale = "fr-fr"
 title = "Adrien Faudot"
 theme = "PaperMod"
 
@@ -11,7 +11,7 @@ theme = "PaperMod"
 
   [[menu.main]]
     name = "International Clearing Project"
-    url = "/International Clearing Project/"
+    url = "/international-clearing-project/"
     weight = 2
 
   [[menu.main]]
@@ -21,7 +21,7 @@ theme = "PaperMod"
 
   [[menu.main]]
     name = "Publications [FR]"
-    url = "/publications-FR/"
+    url = "/publications-fr/"
     weight = 4
 
   [[menu.main]]
