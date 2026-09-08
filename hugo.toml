@@ -1,0 +1,30 @@
+baseURL = "http://example.org/"
+languageCode = "fr-fr"
+title = "Adrien Faudot"
+theme = "PaperMod"
+
+[menu]
+  [[menu.main]]
+    name = "Accueil"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "International Clearing Project"
+    url = "/International Clearing Project/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Publications [ENG]"
+    url = "/publications/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Publications [FR]"
+    url = "/publications-FR/"
+    weight = 4
+
+  [[menu.main]]
+    name = "CV"
+    url = "/a-propos/"
+    weight = 5
