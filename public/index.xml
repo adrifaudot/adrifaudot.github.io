@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Adrien Faudot</title>
-    <link>http://localhost:1313/</link>
+    <link>http://example.org/</link>
     <description>Recent content on Adrien Faudot</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/international-clearing-project/</link>
+      <link>http://example.org/international-clearing-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/international-clearing-project/</guid>
+      <guid>http://example.org/international-clearing-project/</guid>
       <description>&lt;h1 id=&#34;my-main-project--writing-the-history-of-clearing&#34;&gt;My main project : Writing the history of clearing&lt;/h1&gt;
 &lt;p&gt;For several years now, my project has been to write a history of the ideas and facts surrounding the establishment and operation of what has been called “clearing.” Clearing agreements began in late 1931 in the form of bilateral agreements aimed at reducing, or even eliminating, the use of convertible currencies in trade between countries suffering from a shortage of such currencies. These agreements continued to evolve until they became a veritable paradigm in Europe. Faced with this necessity, many economists felt the need to temporarily develop a payment architecture based on interstate clearing, while others—though fewer in number (such as Keynes or Triffin)—viewed it as a more sustainable framework. After World War II, Western economies were driven by the desire to preserve certain benefits of clearing (trade integration, liquidity optimization) while pursuing an agenda of trade liberalization and a return to currency convertibility. Clearing remained in place until the 1950s, but it had to be dismantled. This was the task undertaken by the European Payments Union.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/publications-fr/</link>
+      <link>http://example.org/publications-fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications-fr/</guid>
+      <guid>http://example.org/publications-fr/</guid>
       <description>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Articles dans des revues à comité de lecture&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Faudot, A. (2026) &amp;ldquo;La réception par les économistes hétérodoxes français de La Violence de la Monnaie (Aglietta et Orléan, 1982)&amp;rdquo;, &lt;em&gt;Revue de la Régulation&lt;/em&gt; (&lt;a href=&#34;https://journals.openedition.org/regulation/26454&#34;&gt;hors série - numéro hommage à Michel Aglietta&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Faudot, A. (2023) &amp;ldquo;Gustav Cassel et l’analyse des problèmes du système monétaire international pendant et après la première guerre mondiale&amp;rdquo;, &lt;em&gt;Revue d’Histoire de la Pensée Economique&lt;/em&gt;, n° 16, p. 251-271
-📄 &lt;a href=&#34;http://localhost:1313/pdfs/article102.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+📄 &lt;a href=&#34;http://example.org/pdfs/article102.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Faudot, A., &amp;amp; Rossiaud, S. (2022) &amp;ldquo;Le régime rentier en Russie et son évolution après la guerre en Ukraine », &lt;a href=&#34;https://shs.cairn.info/revue-d-economie-financiere-2022-3-page-33?lang=fr&#34;&gt;&lt;em&gt;Revue d’économie financière&lt;/em&gt;&lt;/a&gt;, n°147, p. 33-47
-📄 &lt;a href=&#34;http://localhost:1313/pdfs/article101.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+📄 &lt;a href=&#34;http://example.org/pdfs/article101.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Faudot (2014) &amp;ldquo;Le régime rentier d’accumulation en Arabie saoudite et son mode de régulation&amp;rdquo;, &lt;em&gt;Revue de la Régulation&lt;/em&gt;, &lt;a href=&#34;https://journals.openedition.org/regulation/10837&#34;&gt;n° 16&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Chapitres d&amp;rsquo;ouvrages&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/publications/</link>
+      <link>http://example.org/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/</guid>
+      <guid>http://example.org/publications/</guid>
       <description>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Peer-reviewed articles&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Faudot, A. (2027) &amp;ldquo;The National-Socialist New Order and the conception of the Proposals for the International Clearing Union&amp;rdquo;, &lt;em&gt;History of Political Economy&lt;/em&gt; (forthcoming)&lt;/li&gt;
 &lt;li&gt;Faudot, A. (2025) &amp;ldquo;Paul Einzig’s Contribution to the Economics of International Clearing&amp;rdquo;, &lt;a href=&#34;https://www.libraweb.net/articoli.php?chiave=202506101&amp;amp;rivista=61&#34;&gt;&lt;em&gt;History of Economic Ideas&lt;/em&gt;&lt;/a&gt;, Vol. 33, n° 1, p. 89-112
-📄 &lt;a href=&#34;http://localhost:1313/pdfs/article2.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+📄 &lt;a href=&#34;http://example.org/pdfs/article2.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Faudot, A. &amp;amp; Nenovsky, N. (2024) &amp;ldquo;Edgard Milhaud and the Case for Establishing an International Clearing Union in the 1930s. A Forgotten Forerunner of Keynes?&amp;rdquo;, &lt;a href=&#34;https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/issue/AF1B3021C20014A70A4EFC08A08B59A4&#34;&gt;&lt;em&gt;Journal of the History of Economic Thought&lt;/em&gt;&lt;/a&gt;, Vol. 46, n° 3, p. 399-420
-📄 &lt;a href=&#34;http://localhost:1313/pdfs/article1.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+📄 &lt;a href=&#34;http://example.org/pdfs/article1.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Faudot, A. (2022) &amp;ldquo;The Dual Context of Keynes’ International Clearing Union: Theoretical Advances Meet History&amp;rdquo;, &lt;em&gt;European Journal of the History of Economic Thought&lt;/em&gt;, Vol. 29, n° 2, p. 349-368
-📄 &lt;a href=&#34;http://localhost:1313/pdfs/article9.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+📄 &lt;a href=&#34;http://example.org/pdfs/article9.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Faudot, A. (2022) &amp;ldquo;Robert Triffin and the Case for Exchange Controls&amp;rdquo;, &lt;em&gt;Cahiers d’Economie Politique&lt;/em&gt;, n° 81, p. 163-189
-📄 &lt;a href=&#34;http://localhost:1313/pdfs/article4.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+📄 &lt;a href=&#34;http://example.org/pdfs/article4.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Faudot, A. (2021) &amp;ldquo;The Keynes Plan and Bretton Woods debates: the early radical criticisms by Balogh, Schumacher and Kalecki&amp;rdquo;, &lt;em&gt;Cambridge Journal of Economics&lt;/em&gt;, Vol. 45, n° 4, p. 751-770
-📄 &lt;a href=&#34;http://localhost:1313/pdfs/article3.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+📄 &lt;a href=&#34;http://example.org/pdfs/article3.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Faudot, A. (2020) &amp;ldquo;The European Payments Union (1950-1958): The Post-War Episode of Keynes’ Clearing Union&amp;rdquo;, &lt;em&gt;Review of Political Economy&lt;/em&gt;, Vol. 32, n° 3, p. 371-389
-📄 &lt;a href=&#34;http://localhost:1313/pdfs/article10.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+📄 &lt;a href=&#34;http://example.org/pdfs/article10.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Faudot, A. (2019) &amp;ldquo;Saudi Arabia and the rentier regime trap: A critical assessment of the plan Vision 2030&amp;rdquo;, &lt;em&gt;Resources Policy&lt;/em&gt;, Vol. 62, p. 94-101
-📄 &lt;a href=&#34;http://localhost:1313/pdfs/article7.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+📄 &lt;a href=&#34;http://example.org/pdfs/article7.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Faudot, A. (2018) &amp;ldquo;The U.S. dollar and its payment system: Architecture and political implications&amp;rdquo;, &lt;em&gt;Review of Keynesian Economics&lt;/em&gt;, Vol. 6, n° 1, p. 83-95
-📄 &lt;a href=&#34;http://localhost:1313/pdfs/article5.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+📄 &lt;a href=&#34;http://example.org/pdfs/article5.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Faudot, A., Ponsot, J-F. (2016) &amp;ldquo;The Dollar Dominance: Recent Episode of Trade Invoicing and Debt Issuance&amp;rdquo;, &lt;em&gt;Journal of Economic Integration&lt;/em&gt;, Vol. 31, &lt;a href=&#34;https://www.e-jei.org/current/index.php?vol=31&amp;amp;no=1&#34;&gt;n° 1,&lt;/a&gt; p. 41-64
-📄 &lt;a href=&#34;http://localhost:1313/pdfs/article8.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+📄 &lt;a href=&#34;http://example.org/pdfs/article8.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Faudot, A. (2015) &amp;ldquo;The Euro: An International Invoicing Currency?&amp;rdquo;, &lt;em&gt;International Journal of Political Economy&lt;/em&gt;, Vol. 44, n° 1, p. 51-70
-📄 &lt;a href=&#34;http://localhost:1313/pdfs/article6.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+📄 &lt;a href=&#34;http://example.org/pdfs/article6.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Book chapters&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>CV</title>
-      <link>http://localhost:1313/a-propos/</link>
+      <link>http://example.org/a-propos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/a-propos/</guid>
-      <description>&lt;p&gt;In English: 📄 &lt;a href=&#34;http://localhost:1313/pdfs/CV2.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;En Français : 📄 &lt;a href=&#34;http://localhost:1313/pdfs/CV1.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Ma photo&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/moi.jpg&#34;&gt;&lt;/p&gt;
+      <guid>http://example.org/a-propos/</guid>
+      <description>&lt;p&gt;In English: 📄 &lt;a href=&#34;http://example.org/pdfs/CV2.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;En Français : 📄 &lt;a href=&#34;http://example.org/pdfs/CV1.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Ma photo&#34; loading=&#34;lazy&#34; src=&#34;http://example.org/images/moi.jpg&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;</description>
     </item>
   </channel>
