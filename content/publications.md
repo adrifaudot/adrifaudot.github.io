@@ -29,6 +29,7 @@
 **Book chapters**
 
 * Faudot, A. (2026) "Designing the rules and principles of the international clearing union: past and present debated issues", in Patomäki, H. \& Morgan, J. (eds.) *Deweaponising Interdependence: Bringing the Idea of International Clearing Union into the 21st Century*. Bloomsbury, London, p. 231-248.
+📄 [PDF](/pdfs/chapter4.pdf)
 * Faudot, A. \& Vercueil, J. (2024) "Rentier regimes and the Régulation Theory", in Sanghera, B. (éd.), *Global Rentier Capitalism: Theory and Development*, Routledge, London, p. 57-68.
 📄 [PDF](/pdfs/chapter1.pdf)
 * Faudot, A. \& Nenovsky, N. (2022) "The case for fixed exchange rate regimes: what for and in what form?", in Pressman, S. \& Smithin, J. (eds.), *Debates in Monetary Macroeconomics. Tackling some Unsettled Questions*, Palgrave Macmillan, Cham, p. 193-216. 📄 [PDF](/pdfs/chapter3.pdf)
