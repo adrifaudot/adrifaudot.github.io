@@ -4,7 +4,7 @@
 
 # Bienvenue ! [English below]
 
-Je m'appelle Adrien Faudot et je suis maître de conférences en économie à l'Université de Grenoble Alpes. Je suis actuellement chercheur au [CREG] (https://creg.univ-grenoble-alpes.fr/membres/adrien-faudot) (Centre de Recherche en Economie de Grenoble) et enseigne l'économie principalement à l'IUT de Valence.
+Je m'appelle Adrien Faudot et je suis maître de conférences en économie à l'Université de Grenoble Alpes. Je suis actuellement chercheur au [CREG](https://creg.univ-grenoble-alpes.fr/membres/adrien-faudot) (Centre de Recherche en Economie de Grenoble) et enseigne l'économie principalement à l'IUT de Valence.
 
 J'étudie les questions monétaires et d'économie internationale - même si je m'intéresse parfois à d'autres choses. Dans la plupart de mes travaux, je lie les deux. Depuis plusieurs années, je m'intéresse à l'histoire des faits et des idées relatifs aux paiements internationaux au XXe siècle. C'est ce qui m'a amené à me pencher plus en détail sur la question du clearing, qui permet de s'intéresser à des expériences concrètes d'organisation des paiements, et qui soulève des problèmes d'ordre théorique. 
 
