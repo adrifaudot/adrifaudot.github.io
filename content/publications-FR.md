@@ -31,7 +31,7 @@
 * Faudot, A. (2025). "Hélène de Largentaye, L’échec de Bretton Woods". *Revue d’Histoire de la Pensée Économique*, n°20, p. 326-331.
 * Faudot, A. (2024). "Alvaro Cencini, Bernard Schmitt’s Quantum Macroeconomic Analysis", *Œconomia*, Vol. 14, n° 3, p. 685-690. 
 📄 [PDF](/pdfs/reviewfr2.pdf)
-* Faudot, A. (2016). "Juliet Johnson, Priests of Prosperity. How Central Bankers Transformed the Postcommunist World", *Œconomia*, Vol. 6, n° 4, p. 579-584.
 * Faudot, A. (2021). "À propos de l’ouvrage de Josh Ryan Collins, Why can’t you afford a home?", *Revue de la Régulation*, n° 31.   
+* Faudot, A. (2016). "Juliet Johnson, Priests of Prosperity. How Central Bankers Transformed the Postcommunist World", *Œconomia*, Vol. 6, n° 4, p. 579-584.
 * Faudot, A. (2015). "La souveraineté de la monnaie contre la souveraineté des peuples : le cas de l’euro", *Revue de la régulation*, n° 18, premier semestre, p. 1-5.
 📄 [PDF](/pdfs/reviewfr1.pdf)
