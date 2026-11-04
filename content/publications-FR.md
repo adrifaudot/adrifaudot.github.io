@@ -4,7 +4,7 @@
 
 **Articles dans des revues à comité de lecture**
 
-* Faudot, A. (à paraître, 2027) "Les trois combats de Paul Einzig pendant la Seconde Guerre Mondiale", *Cahiers d’Economie Politique*, n° 90.
+* Faudot, A. (à paraître, 2027) "Les trois combats de Paul Einzig pendant la Seconde Guerre Mondiale", *Cahiers d’Economie Politique*.
 * Faudot, A. (2026) "La réception par les économistes hétérodoxes français de La Violence de la Monnaie (Aglietta et Orléan, 1982)", *Revue de la Régulation* ([hors série - numéro hommage à Michel Aglietta](https://journals.openedition.org/regulation/26454))
 * Faudot, A. (2023) "Gustav Cassel et l’analyse des problèmes du système monétaire international pendant et après la première guerre mondiale", *Revue d’Histoire de la Pensée Economique*, n° 16, p. 251-271
 📄 [PDF](/pdfs/article102.pdf)
