@@ -38,7 +38,8 @@
 
 **Encyclopedia / Dictionary Entry**
 
-* Faudot, A. (2023) "Dollar Dominance", in Rochon, L-P. \& Rossi, S. (eds.), *Elgar Encyclopedia of Post-Keynesian Economics*, Edward Elgar, Cheltenham, p. 117-118.
+* Faudot, A. (2023) "Dollar Dominance", in Rochon, L-P. \& Rossi, S. (eds.), *Elgar Encyclopedia of Post-Keynesian Economics*, Edward Elgar, Cheltenham, p. 117-118. 
+📄 [PDF](/pdfs/entry2.pdf)
 * Faudot, A. (2023) "Dutch Disease", in Rochon, L-P. \& Rossi, S. (eds.), *Elgar Encyclopedia of Post-Keynesian Economics*, Edward Elgar, Cheltenham, p. 122-123.
 📄 [PDF](/pdfs/entry1.pdf)
 
